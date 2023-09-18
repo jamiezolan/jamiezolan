@@ -41,20 +41,11 @@ I transform complex technical concepts into easy-to-understand language. I'm pas
 
 ---
 
-## 🌐 Social Media & Contact (TBD)
+## 🌐 Social Media & Contact
 
-- 🐦 [Twitter](your-twitter-link)
-- 📧 [Email](mailto:your-email)
-- 🌍 [Website](your-website-link)
-- 💼 [LinkedIn](your-linkedin-link)
-
----
-
-## 🎉 Fun Facts (TBD)
-
-- 🎵 I love listening to `[Your favorite genre/music]`.
-- 🚴‍♀️ In my free time, I `[Your hobbies]`.
-- 📖 Currently reading `[Book you're reading]`.
+- 📧 [Email](mailto:jamiezolan@live.com)
+- 🌍 [Website](https://www.jamiezolan.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jamiezolan/)
 
 ---
 
