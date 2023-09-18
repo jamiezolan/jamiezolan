@@ -1,4 +1,4 @@
-### 👋 Hello, World! I'm [Your Name]
+### 👋 Hello, World! I'm Jamie Zolan!
 
 📝 **Technical Writer** | 💻 **Coder** | 🔧 **Prompt Engineer**
 
@@ -24,7 +24,7 @@ I transform complex technical concepts into easy-to-understand language. I'm pas
 
 ---
 
-## 📦 Projects
+## 📦 Projects (TBD)
 
 - **[Project Name 1](project-link)**: `[Brief Description]`
 - **[Project Name 2](project-link)**: `[Brief Description]`
@@ -32,7 +32,7 @@ I transform complex technical concepts into easy-to-understand language. I'm pas
 
 ---
 
-## ✍️ Blog & Writing
+## ✍️ Blog & Writing (TBD)
 
 - 📜 `[Title of your Article](article link)` - Discussing `[Topics you've written about]`.
 - 📜 `[Title of your Article](article link)` - A deep dive into `[Topic]`.
